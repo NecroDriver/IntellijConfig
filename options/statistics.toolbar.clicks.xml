@@ -15,7 +15,7 @@
       <entry action="Vcs.ShowTabbedFileHistory@MainToolbar" count="1" />
       <entry action="com.intellij.execution.impl.ConsoleViewImpl$7@unknown" count="1" />
       <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="10" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="4" />
     </counts>
   </component>
 </application>

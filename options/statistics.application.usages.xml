@@ -7,6 +7,7 @@
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="2" />
       <entry feature="execute.JUnit.Debug" count="4" />
       <entry feature="execute.JUnit.Run" count="10" />
+      <entry feature="ide.settings.File_Encodings" count="1" />
       <entry feature="ide.settings.Font" count="1" />
       <entry feature="ide.settings.Git" count="1" />
       <entry feature="ide.settings.Inspections" count="1" />
