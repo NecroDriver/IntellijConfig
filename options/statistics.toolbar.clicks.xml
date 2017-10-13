@@ -1,0 +1,21 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CheckinProject@ChangesViewToolbar" count="2" />
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="1" />
+      <entry action="ForceStepInto@DebuggerToolbar" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="1" />
+      <entry action="Run@MainToolbar" count="1" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="5" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="3" />
+      <entry action="StepOut@DebuggerToolbar" count="1" />
+      <entry action="StepOver@DebuggerToolbar" count="25" />
+      <entry action="Stop@DebuggerToolbar" count="1" />
+      <entry action="Stop@RunnerToolbar" count="1" />
+      <entry action="Vcs.ShowTabbedFileHistory@MainToolbar" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$7@unknown" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="10" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
+    </counts>
+  </component>
+</application>

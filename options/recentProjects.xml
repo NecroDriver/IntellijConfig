@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/mafh/seckill" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/mafh/seckill" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/mafh/seckill" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/mafh/seckill">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507861126879" />
+              <option name="buildTimestamp" value="1506404225254" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/mafh" />
+  </component>
+</application>

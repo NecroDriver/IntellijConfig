@@ -1,0 +1,57 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="2" />
+      <entry action="$SelectAll" count="1" />
+      <entry action="$Undo" count="57" />
+      <entry action="BuildArtifact" count="1" />
+      <entry action="CheckinProject" count="2" />
+      <entry action="CommentByBlockComment" count="1" />
+      <entry action="CommentByLineComment" count="24" />
+      <entry action="DatabaseView.AddActionGroupPopup" count="1" />
+      <entry action="EditorBackSpace" count="636" />
+      <entry action="EditorChooseLookupItem" count="262" />
+      <entry action="EditorCopy" count="19" />
+      <entry action="EditorCut" count="13" />
+      <entry action="EditorDeleteLine" count="17" />
+      <entry action="EditorDown" count="403" />
+      <entry action="EditorDuplicate" count="9" />
+      <entry action="EditorEnter" count="211" />
+      <entry action="EditorLeft" count="905" />
+      <entry action="EditorLeftWithSelection" count="72" />
+      <entry action="EditorPaste" count="22" />
+      <entry action="EditorRight" count="995" />
+      <entry action="EditorRightWithSelection" count="107" />
+      <entry action="EditorSelectWord" count="2" />
+      <entry action="EditorTab" count="60" />
+      <entry action="EditorUp" count="182" />
+      <entry action="Find" count="2" />
+      <entry action="FindNext" count="2" />
+      <entry action="ForceStepInto" count="1" />
+      <entry action="GotoDeclaration" count="13" />
+      <entry action="GotoTest" count="6" />
+      <entry action="HideAllWindows" count="6" />
+      <entry action="HippieCompletion" count="7" />
+      <entry action="IntroduceField" count="2" />
+      <entry action="NewClass" count="1" />
+      <entry action="NewDir" count="1" />
+      <entry action="NewFile" count="2" />
+      <entry action="Rerun" count="1" />
+      <entry action="Resume" count="1" />
+      <entry action="Run" count="1" />
+      <entry action="SaveAll" count="211" />
+      <entry action="SearchEverywhere" count="8" />
+      <entry action="ShowExecutionPoint" count="5" />
+      <entry action="ShowIntentionActions" count="14" />
+      <entry action="ShowProjectStructureSettings" count="3" />
+      <entry action="ShowSettings" count="3" />
+      <entry action="StepOut" count="1" />
+      <entry action="StepOver" count="32" />
+      <entry action="Stop" count="2" />
+      <entry action="ToggleLineBreakpoint" count="3" />
+      <entry action="Vcs.ShowTabbedFileHistory" count="1" />
+      <entry action="ViewToolBar" count="1" />
+      <entry action="ViewToolButtons" count="1" />
+    </counts>
+  </component>
+</application>

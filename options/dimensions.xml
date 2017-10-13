@@ -1,0 +1,29 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="129" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="601" y="70" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="963" y="437" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="667" y="331" />
+    <location key="SettingsEditor.0.0.1920.1080" x="441" y="169" />
+    <location key="#Tomcat_Server.0.0.1920.1080" x="740" y="401" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="168" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" x="731" y="251" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="512" y="102" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="636" y="240" />
+    <location key="#SQL_Dialects.0.0.1920.1080" x="335" y="215" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="765" y="229" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="731" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="333" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="333" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="333" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="333" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="333" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="333" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="333" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="333" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1876" height="270" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1876" height="270" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1876" height="270" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1876" height="270" />
+  </component>
+</application>
