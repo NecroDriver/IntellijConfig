@@ -2,25 +2,61 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="D:/mafh/JAVABASIC" />
+        <option value="D:/mafh/jms-test" />
+        <option value="D:/mafh/jms-spring" />
         <option value="D:/mafh/seckill" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/mafh/seckill" />
+        <option value="D:/mafh/JAVABASIC" />
       </list>
     </option>
-    <option name="lastPath" value="D:/mafh/seckill" />
+    <option name="lastPath" value="D:/mafh/JAVABASIC" />
     <option name="additionalInfo">
       <map>
+        <entry key="D:/mafh/JAVABASIC">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508406187838" />
+              <option name="buildTimestamp" value="1506404262423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mafh/jms-spring">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508379569601" />
+              <option name="buildTimestamp" value="1506404262423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mafh/jms-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508403992985" />
+              <option name="buildTimestamp" value="1506404262423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/mafh/seckill">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1507861126879" />
-              <option name="buildTimestamp" value="1506404225254" />
+              <option name="projectOpenTimestamp" value="1508120057832" />
+              <option name="buildTimestamp" value="1506404256805" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
