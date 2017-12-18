@@ -1,9 +1,14 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="$Undo@MainToolbar" count="1" />
       <entry action="CheckinProject@ChangesViewToolbar" count="6" />
       <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="1" />
+      <entry action="Debug@MainToolbar" count="3" />
       <entry action="ForceStepInto@DebuggerToolbar" count="1" />
+      <entry action="JRebel Debug@MainToolbar" count="2" />
+      <entry action="JRebel Executor@MainToolbar" count="1" />
+      <entry action="Rerun@DebuggerToolbar" count="3" />
       <entry action="Rerun@RunnerToolbar" count="23" />
       <entry action="Run@MainToolbar" count="6" />
       <entry action="ShowExecutionPoint@DebuggerToolbar" count="5" />
@@ -11,17 +16,23 @@
       <entry action="StepInto@DebuggerToolbar" count="4" />
       <entry action="StepOut@DebuggerToolbar" count="1" />
       <entry action="StepOver@DebuggerToolbar" count="28" />
-      <entry action="Stop@DebuggerToolbar" count="2" />
-      <entry action="Stop@MainToolbar" count="1" />
-      <entry action="Stop@RunnerToolbar" count="15" />
+      <entry action="Stop@DebuggerToolbar" count="3" />
+      <entry action="Stop@MainToolbar" count="3" />
+      <entry action="Stop@RunnerToolbar" count="16" />
+      <entry action="Synchronize@MainToolbar" count="2" />
+      <entry action="ToolWindowOpenSettings@unknown" count="1" />
       <entry action="Vcs.ShowTabbedFileHistory@MainToolbar" count="1" />
       <entry action="com.intellij.execution.impl.ConsoleViewImpl$7@unknown" count="1" />
-      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="3" />
       <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="16" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="1" />
+      <entry action="com.intellij.ide.plugins.PluginManagerMain$RefreshAction@PluginManager" count="1" />
+      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="2" />
       <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@EditorToolbar" count="1" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$8@Keymap" count="1" />
       <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$9@Keymap" count="3" />
       <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="10" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="5" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="16" />
     </counts>
   </component>
 </application>
